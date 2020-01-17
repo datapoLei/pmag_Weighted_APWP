@@ -245,5 +245,5 @@ if isnan(apwpSeg)==0
     title('\fontsize{14} Paleopoles')
 end
 
-% output=[1lonRM 2latRM 3e95a 4e95b 5omega 6Kx 7Ky 8N 9lonSP 10latSP]
+% output=[1Age 2lonRM 3latRM 4e95a 5e95b 6omega 7Kx 8Ky 9N 10lonSP 11latSP]
 output=[rm4table apwp4kin(:,7:8)]
