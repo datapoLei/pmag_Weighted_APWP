@@ -13,7 +13,7 @@
  N: number of input paleopoles used for calculating the running mean pole;
  lonSP latSP: location of a spline pole.
 
-# Reconstruction of Pangea assembly
+# GPlates reconstruction files of Pangea assembly
 All continents are reconstructed in the paleomagnetic frame (004).
 
 Files included in Recon_Pangea_Formation.zip:
