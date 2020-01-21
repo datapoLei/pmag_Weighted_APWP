@@ -16,7 +16,7 @@
 # Reconstruction of Pangea assembly
 All continents are reconstructed in the paleomagnetic frame (004).
 
-Files included:
+Files included in Recon_Pangea_Formation.zip:
 1. Reconstruction file: Pangea_Formation1.rot
 2. Coastline file: Pangea_Formation_Coastlines1.shp (.dbf / .shx)
 3. Input paleopole files for Gondwana (Plateid=701), Laurentia (Plateid=101), Baltica (Plateid=302) and Laurussia (Plateid=302): 
