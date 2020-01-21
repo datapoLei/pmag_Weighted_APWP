@@ -1,4 +1,4 @@
-# Weighted APWP calculation scripts
+# Weighted running mean /spline APWP calculation scripts:
  Matlab code for creating a combined weighted running mean and spline apparent polar wander path
 
  This repository contains MATLAB scripts to generate apparent polar wander (APW) paths of Gondwana (WeightAPWPgond.m), Laurentia (WeightAPWPlau.m), Baltica (WeightAPWPbalt.m) and Laurussia (WeightAPWPlauru.m).
