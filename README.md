@@ -26,7 +26,7 @@ Files included in Recon_Pangea_Formation.zip:
     ex: rmSplpGond.shp (.dbf / .shx): Gondwanan running mean poles
           rmSpllGond.shp (.dbf / .shx): Gondwanan spline poles / curve
       
-Three-step to show the mid-to-late Paleozoic continental reconstructions
+Three steps to show the mid-to-late Paleozoic continental reconstructions:
 1. Run GPlates, select 'File' > 'Open Project' > 'Pangea_Formation_Coastlines.prj' (all files will be loaded);
 2. Select 'Reconstruction' > 'Specify Anchored Plate ID' > type '4' (paleomagnetic frame);
 3. Select 'Reconstruction' > 'Reconstruction to Time' > type an integer between 300 and 460 Ma.
