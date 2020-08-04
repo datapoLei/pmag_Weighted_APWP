@@ -33,4 +33,5 @@ Three steps to show the mid-to-late Paleozoic continental reconstructions:
 
 #  Please cite our paper:
 
- Wu, L., Murphy, J.B., Quesada, C., Li, Z-X., Waldron, J.W.F., Williams, S., Pisarevsky, S., Collins, W.J. The amalgamation of Pangea: Paleomagnetic and geological observations revisited. 
+ Wu, L., Murphy, J.B., Quesada, C., Li, Z-X., Waldron, J.W.F., Williams, S., Pisarevsky, S., Collins, W.J. The amalgamation of Pangea: Paleomagnetic and geological observations revisited. GSA Bulletin doi: https://doi.org/10.1130/B35633.1
+
