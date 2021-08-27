@@ -31,7 +31,7 @@ Three steps to show the mid-to-late Paleozoic continental reconstructions:
 2. Select 'Reconstruction' > 'Specify Anchored Plate ID' > type '4' (paleomagnetic frame);
 3. Select 'Reconstruction' > 'Reconstruction to Time' > type an integer between 300 and 460 Ma.
 
-#  Please cite our paper:
+# Please cite our paper:
 
  Wu, L., Murphy, J.B., Quesada, C., Li, Z-X., Waldron, J.W.F., Williams, S., Pisarevsky, S., Collins, W.J. The amalgamation of Pangea: Paleomagnetic and geological observations revisited. GSA Bulletin doi: https://doi.org/10.1130/B35633.1
 
